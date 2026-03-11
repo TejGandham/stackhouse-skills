@@ -6,7 +6,7 @@
     "name": "Tej Gandham",
     "email": "tej@engen.tech"
   },
-  "repository": "https://brahma.myth-gecko.ts.net:3000/stackhouse/claude-skills",
+  "repository": "https://brahma.myth-gecko.ts.net:3000/stackhouse/stackhouse-skills",
   "license": "MIT",
   "keywords": ["parchmark", "worktree", "beads", "markdown-sync", "workflow"]
 }
