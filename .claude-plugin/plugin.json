@@ -1,0 +1,12 @@
+{
+  "name": "parchmark-skill",
+  "description": "ParchMark workflow skills: branch setup with worktree safety, session landing checklist, and frontend/backend markdown sync verification",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tej Gandham",
+    "email": "tej@engen.tech"
+  },
+  "repository": "https://brahma.myth-gecko.ts.net:3000/stackhouse/claude-skills",
+  "license": "MIT",
+  "keywords": ["parchmark", "worktree", "beads", "markdown-sync", "workflow"]
+}

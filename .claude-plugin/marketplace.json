@@ -1,0 +1,25 @@
+{
+  "name": "stackhouse-skills",
+  "description": "Custom Claude Code skills for Stackhouse projects",
+  "owner": {
+    "name": "Tej Gandham",
+    "email": "tej@engen.tech"
+  },
+  "metadata": {
+    "description": "Reusable workflow skills for ParchMark and other Stackhouse projects",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "parchmark-skill",
+      "description": "ParchMark workflow skills: branch setup with worktree safety, session landing checklist, and frontend/backend markdown sync verification",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/parchmark-branch-setup",
+        "./skills/parchmark-land",
+        "./skills/parchmark-markdown-sync"
+      ]
+    }
+  ]
+}
