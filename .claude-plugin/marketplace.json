@@ -14,7 +14,7 @@
       "name": "parchmark-skill",
       "description": "ParchMark workflow skills: branch setup with worktree safety, session landing checklist, and frontend/backend markdown sync verification",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": [
         "./skills/parchmark-branch-setup",
         "./skills/parchmark-land",
